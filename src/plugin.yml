@@ -1,0 +1,9 @@
+name: KingZombie
+author: ThisIsMac
+version: 1.0
+main: fr.thisismac.zombie.Core
+depend: [Essentials]
+commands:
+    zombie:
+     description: main cmd
+     usage: /<command> spawn <x> <y> <z>
